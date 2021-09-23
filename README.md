@@ -1,6 +1,6 @@
 # Spring Cloud Gateway with WMS BBOX Dynamic Routing
 
-Request parameter based Dynamic roting with BBOX Coordinate on WMS Protocol.
+Request parameter based dynamic routing with BBOX Coordinate on WMS Protocol.
 
 ## Example Description
 
